@@ -51,6 +51,6 @@ Drawback: By typing in the suggested placeholder elements as the filters, the us
 
 Recommendations:
 
-1. Fix the disadvantages described before. The easy way could be add a kind of instructions for the user but the professional way could be to add the trim() Function to remove the whitespace characters from the start and the end. Besides that we can include an additonal funtion to convert to lower case or to uppercase.
+1. Fix the disadvantages described before. The easy way could be add the instructions for the user to populate the filters, nevertheless the professional way could be to add the trim() Function to remove the whitespace characters from the start and the end. Besides that we can include an additonal funtion to convert to lower case or to uppercase.
 
 2. The research data on some filters are not intuitive like Date. For example the data showed in the table is only about the 2010 that kind of limitation is not shared with the user anywhere. So it could be helpful to highlight that in the article and set up a date range instead of a specific date. 
